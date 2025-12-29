@@ -1,0 +1,8 @@
+[!] Failed to fetch AbuseIPDB: 'data'
+[!] Failed to fetch URLHaus: list index out of range
+[MODEL] Validation ROC-AUC: 1.0000
+[*] Starting real-time monitoring...
+[+] Fetched 10000 IP IOCs from AbuseIPDB
+[!] Failed to fetch URLHaus: list index out of range
+[MODEL] Validation ROC-AUC: 1.0000
+[*] Starting real-time monitoring...
