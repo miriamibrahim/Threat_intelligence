@@ -6,3 +6,71 @@
 [!] Failed to fetch URLHaus: list index out of range
 [MODEL] Validation ROC-AUC: 1.0000
 [*] Starting real-time monitoring...
+[*] Starting Hybrid IDS Pipeline
+[!] ABUSEIPDB_API_KEY not set – skipping fetch.
+[+] Fetched 0 URLHaus IOCs
+[MODEL] ROC-AUC: 1.0000
+[*] Real-time monitoring started
+[!] Stopping pipeline safely...
+[+] Pipeline stopped
+[*] Starting Hybrid IDS Pipeline
+[+] Fetched 10000 IP IOCs
+[+] Fetched 0 URLHaus IOCs
+[MODEL] ROC-AUC: 1.0000
+[*] Real-time monitoring started
+[!] Stopping pipeline safely...
+[+] Pipeline stopped
+[*] Starting Hybrid IDS Pipeline
+[!] ABUSEIPDB_API_KEY not set – skipping fetch.
+[+] Fetched 0 URLHaus IOCs
+[MODEL] ROC-AUC: 1.0000
+[*] Real-time monitoring started
+[*] Press Ctrl+C to stop
+[!] Stopping pipeline safely...
+[+] Pipeline stopped
+[*] Starting Hybrid IDS Pipeline
+[+] Fetched 10000 IP IOCs
+[+] Fetched 0 URLHaus IOCs
+[MODEL] ROC-AUC: 1.0000
+[*] Real-time monitoring started
+[*] Press Ctrl+C to stop
+[!] Stopping pipeline safely...
+[+] Pipeline stopped
+[*] Starting Hybrid IDS Pipeline
+[+] Fetched 10000 IP IOCs
+[+] Fetched 0 URLHaus IOCs
+[MODEL] ROC-AUC: 1.0000
+[*] Real-time monitoring started
+[*] Press Ctrl+C to stop
+[!] Stopping pipeline safely...
+[+] Pipeline stopped
+[*] Hybrid IDS starting
+[*] Fetching AbuseIPDB IOCs...
+[+] Loaded 0 IP IOCs
+[*] Fetching URLHaus IOCs...
+[+] Loaded 0 domain IOCs
+[+] IP IOCs: 0 | Domain IOCs: 0
+[*] Training model from historical events
+[*] Hybrid IDS starting
+[*] Fetching AbuseIPDB IOCs...
+[+] Loaded 0 IP IOCs
+[*] Fetching URLHaus IOCs...
+[+] Loaded 0 domain IOCs
+[+] IP IOCs: 0 | Domain IOCs: 0
+[*] Training model from historical events
+[*] Starting Hybrid IDS Pipeline
+[+] Fetched 0 IP IOCs
+[+] Fetched 0 URLHaus IOCs
+[MODEL] ROC-AUC: 1.0000
+[*] Real-time monitoring started
+[*] Press Ctrl+C to stop
+[!] Stopping pipeline safely...
+[+] Pipeline stopped
+[*] Starting Hybrid IDS Pipeline
+[+] Fetched 0 IP IOCs
+[+] Fetched 0 URLHaus IOCs
+[MODEL] ROC-AUC: 1.0000
+[*] Real-time monitoring started
+[*] Press Ctrl+C to stop
+[!] Stopping pipeline safely...
+[+] Pipeline stopped
